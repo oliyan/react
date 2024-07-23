@@ -8,6 +8,6 @@
 
 # References
 - Learn about [Virtual DOM](https://lazamar.github.io/virtual-dom/)
-- Learn about building the first react app [here](https://expo.dev/blog/from-web-to-native-with-react?ck_subscriber_id=2738275647)
+- Learn about building the [first react native app here](https://expo.dev/blog/from-web-to-native-with-react?ck_subscriber_id=2738275647)
 
 
